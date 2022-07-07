@@ -1,0 +1,82 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Ways light",
+            "category": "Novel",
+            "pages": 153,
+            "dateAdd": "2022/02/05",
+            "yearWrite": "2021",
+            "author": "Sarawut Prakobkij",
+            "publisher": "BoyPrint",
+            "isbn": "5073753932041094",
+            "price": 109.00,
+            "imageURL": "assets/bookImage/bookImg1.png"
+        },
+        {
+            "id": 2,
+            "name": "5 Kings",
+            "category": "Diary",
+            "pages": 90,
+            "dateAdd": "2022/02/05",
+            "yearWrite": "2019",
+            "author": "Kittikun Kredgatok",
+            "publisher": "KingPub",
+            "isbn": "8326392185931234",
+            "price": 89.00,
+            "imageURL": "assets/bookImage/bookImg2.png"
+        },
+        {
+            "id": 3,
+            "name": "Inside void",
+            "category": "Horror",
+            "pages": 90,
+            "dateAdd": "2022/02/06",
+            "yearWrite": "2019",
+            "author": "Kittikun Kredgatok",
+            "publisher": "KingPub",
+            "isbn": "8326392185931234",
+            "price": 139.00,
+            "imageURL": "assets/bookImage/bookImg3.png"
+        },
+        {
+            "id": 4,
+            "name": "Empty World",
+            "category": "Novel",
+            "pages": 60,
+            "dateAdd": "2022/02/07",
+            "yearWrite": "2019",
+            "author": "Kittikun Kredgatok",
+            "publisher": "KingPub",
+            "isbn": "8326392185931234",
+            "price": 89.00,
+            "imageURL": "assets/bookImage/bookImg4.png"
+        },
+        {
+            "id": 5,
+            "name": "Lie",
+            "category": "Diary",
+            "pages": 59,
+            "dateAdd": "2022/02/8",
+            "yearWrite": "2015",
+            "author": "Pubodin Sukjaroen",
+            "publisher": "BoyPrint",
+            "isbn": "9518314857942351",
+            "price": 134.00,
+            "imageURL": "assets/bookImage/bookImg5.png"
+        },
+        {
+            "id": 6,
+            "name": "Outer World",
+            "category": "Sci-fi",
+            "pages": 243,
+            "dateAdd": "2022/02/09",
+            "yearWrite": "2022",
+            "author": "Mankhong Limprapaipong",
+            "publisher": "BoyPrint",
+            "isbn": "7945312648531259",
+            "price": 230.00,
+            "imageURL": "assets/bookImage/bookImg6.png"
+        }
+    ]
+}
